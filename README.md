@@ -35,3 +35,5 @@ Start by copying the `docker-compose.yml` and schema files to your EC2 instance.
 ```bash
 scp -i Tripop_test.pem docker-compose.yml ubuntu@ec2-54-255-209-170.ap-southeast-1.compute.amazonaws.com:/home/ubuntu
 scp -i Tripop_test.pem user_page_views_schema.json user_page_views_table.json ubuntu@ec2-54-255-209-170.ap-southeast-1.compute.amazonaws.com:/home/ubuntu
+
+## To be continued.......
